@@ -1,5 +1,5 @@
 # Firebase-Tutorial
-React-Native
+
 
 
 Firabase:
@@ -15,3 +15,5 @@ React-Native:
 
 Ez egy egyszerű React Native alkalmazás, amely bemutatja, hogyan integrálható a Firebase a felhasználói hitelesítéshez. Az alkalmazás lehetővé teszi a felhasználók számára, hogy felhasználónevet, e-mail-címet és jelszót használva fiókot hozzanak létre, majd elküldjék ezeket az adatokat egy Firebase valós idejű adatbázisba.
 
+
+Ez a React Native alkalmazás egy űrlapból áll, amely szövegbeviteli mezőket tartalmaz a felhasználónévhez, e-mail címhez és jelszóhoz. Amikor a felhasználó kitölti ezeket a mezőket, és megnyomja az "Adatok küldése" gombot, a rendszer elküldi az adatokat egy Firebase-adatbázisba. A felhasználó riasztásokon keresztül kap visszajelzést arról, hogy az adatok elküldése sikeres volt-e, vagy hiba történt. A stílus meghatározása a React Native StyleSheet segítségével történik.
